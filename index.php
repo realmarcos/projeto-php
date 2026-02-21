@@ -11,6 +11,7 @@
     <!-- comentário html -->
 
     <?php
+    alteração
 
     // CÓDIGO PHP AQUI
     
